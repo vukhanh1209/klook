@@ -1,6 +1,6 @@
 # Klook Project
 - Được tạo ra trong quá trình học môn Lập trình web và là 3 trang chính trong project cuối kì.  
-- Gồm trang chủ, trang tìm kiếm và trang giỏ hàng.  
+- Gồm **Trang chủ**, **Trang tìm kiếm** và **Trang giỏ hàng**.  
 - Công nghệ: HTML, CSS và JS.  
 - Hướng dẫn:  
   + Để chuyển từ **Trang chủ** sang **Trang tìm kiếm**: nhấp chuột vào 1 trong các thành phố trong mục "Top điểm du lịch tại Việt Nam" hoặc nhấp chuột vào một phân loại dịch vụ bất kì ở ngay trên mục "Top điểm du lịch tại Việt Nam".
