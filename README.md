@@ -1,5 +1,4 @@
 # Klook Project
-- Được tạo ra trong quá trình học môn Lập trình web và là 3 trang chính trong project cuối kì.  
 - Gồm **Trang chủ**, **Trang tìm kiếm** và **Trang giỏ hàng**.  
 - Công nghệ: HTML, CSS và JS.  
 - Hướng dẫn:  
